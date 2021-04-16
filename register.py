@@ -6,7 +6,7 @@ def register():
     
     # KAMUS LOKAL
     # ...
-    global data, auth
+    global data
 
     # ALGORITMA
     
@@ -101,7 +101,6 @@ def isRegistered(username):
     
     # KAMUS LOKAL
     # ...
-    global data
 
     # ALGORITMA
 
