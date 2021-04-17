@@ -73,7 +73,7 @@ def register():
                 "username" : ...,
                 "name" : ...,
                 "address" : ...,
-                "password" : jeHash(...),
+                "password" : hash128(...),
                 "role" : "User",
             }
             data["user"].append(...)
